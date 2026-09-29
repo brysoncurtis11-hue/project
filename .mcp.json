@@ -5,7 +5,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "findskills-mcp"
+        "findskills-mcp@0.1.23"
       ],
       "env": {}
     }
