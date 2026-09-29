@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "findskills": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "findskills-mcp"
+      ],
+      "env": {}
+    }
+  }
+}
